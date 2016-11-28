@@ -1,0 +1,17 @@
+{
+  "name": "Vanilla-SPA-Hello-World",
+  "homepage": "https://github.com/rafanog/Vanilla-SPA-Hello-World",
+  "authors": [
+    "rafanog2155 <rafanog2155@gmail.com>"
+  ],
+  "description": "Basic usage of plain javascript for a Hello World example",
+  "main": "app.js",
+  "keywords": [
+    "Vanilla.js",
+    "Javascript",
+    "Hello",
+    "World"
+  ],
+  "license": "MIT",
+  "private": true
+}

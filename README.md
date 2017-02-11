@@ -1,1 +1,2 @@
-"# Vanilla-SPA-Hello-World" 
+Vanilla-SPA-Hello-World
+=======================
